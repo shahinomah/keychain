@@ -1,7 +1,9 @@
 # keychain
 Keychain STL maker using OpenSCAD
 
-Download a file from this page (SCAD-Keychain-Custom.scad)
+First, download and install OpenSCAD application on your PC / laptop (https://openscad.org/downloads.html)
+
+To make it easy, download a file from this page (SCAD-Keychain-Custom.scad)
 
 You can change following details according to your preferences:
 
